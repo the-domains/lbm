@@ -1,0 +1,23 @@
+name: lbm
+favicon: null
+layout_spectrum: 0.24432804388925433
+typography_spectrum: 0.37768279178999364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.05705638765357435
+  lightness: 0.5821569510735571
+  saturation: 0.22765397490002215
+  rhythmicContrast: 0.5171695430763066
+purpose: []
